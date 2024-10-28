@@ -1,0 +1,26 @@
+{
+  "name": "suividesdemandescascnps",
+  "version": "1.0.0",
+  "description": "autorisation de test fonctionnel",
+  "main": "index.js",
+  "dependencies": {
+    "blurhash": "^2.0.5",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "color-parse": "^1.4.2",
+    "cypress": "^13.14.0",
+    "marked": "^4.0.12",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2",
+    "vanilla-colorful": "^0.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "author": "honore remi",
+  "license": "ISC"
+}
